@@ -91,7 +91,6 @@ form{
   flex-direction: column;
 }
 label{
-  height: 20%;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
