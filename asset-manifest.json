@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Landing-Register/static/css/main.bcdbba3e.chunk.css",
+    "main.css": "/Landing-Register/static/css/main.c5da06a8.chunk.css",
     "main.js": "/Landing-Register/static/js/main.f3ab4fa1.chunk.js",
     "main.js.map": "/Landing-Register/static/js/main.f3ab4fa1.chunk.js.map",
     "runtime~main.js": "/Landing-Register/static/js/runtime~main.74f7c61a.js",
@@ -8,9 +8,9 @@
     "static/js/2.3310f33a.chunk.js": "/Landing-Register/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/Landing-Register/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/Landing-Register/index.html",
-    "precache-manifest.80295612fda058e1d9e6d30d052d7bfe.js": "/Landing-Register/precache-manifest.80295612fda058e1d9e6d30d052d7bfe.js",
+    "precache-manifest.0c0127c94f50584f05dfe751934fe3ed.js": "/Landing-Register/precache-manifest.0c0127c94f50584f05dfe751934fe3ed.js",
     "service-worker.js": "/Landing-Register/service-worker.js",
-    "static/css/main.bcdbba3e.chunk.css.map": "/Landing-Register/static/css/main.bcdbba3e.chunk.css.map",
+    "static/css/main.c5da06a8.chunk.css.map": "/Landing-Register/static/css/main.c5da06a8.chunk.css.map",
     "static/media/App.css": "/Landing-Register/static/media/homework.017ed972.jpeg"
   }
 }
