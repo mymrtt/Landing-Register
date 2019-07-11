@@ -1,0 +1,32 @@
+.Header{
+    /* padding: 0 1rem; */
+    width: 100%;
+    height: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: #4eb564; */
+}
+.Header_links{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+.Header_title{
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+.Header_title:hover{
+    color: #4eb564;
+}
+a:hover{
+    border-bottom: 2px solid #4eb564;
+}
+@media(max-width: 640px){
+    .Header_links{
+        width: 50%;
+    }
+    .Header_title{
+        font-size: 1.5rem;
+    }
+}
